@@ -10,7 +10,7 @@ on:
       digest:
         description: "The OCI image digest. The image digest of the form '<algorithm>:<digest>' (e.g. 'sha256:abcdef...')"
         type: string
-        default: "sha256:51c374c1af56022fdc75aec399d9694e1559338544d78b788a515bdd7278ebf5"
+        default: "sha256:9270feaa6d011141b5d223114d18f05ce8d116cc1b57d0013587cb4d0d0e03ee"
       environment:
         type: choice
         description: Environment to use
